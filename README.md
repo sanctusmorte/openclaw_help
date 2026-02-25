@@ -1,2 +1,3 @@
-# openclaw_help
-openclaw FAQ
+#Установка
+
+curl -fsSL https://openclaw.ai/install.sh | bash
